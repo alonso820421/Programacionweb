@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title>Sistemas </title>
+</head>
+<body bgcolor=black text=white>
+<font face=Arial size=25>
+<h1><p align="center">Pasatiempos</p></font></h1>
+
+<h2><p align="center"><FONT FACE=verdana size=16 COLOR="orange"><u>Pasatiempos</u></FONT></p></h2>
+<font face=calibri>
+<p align="center">Pasar la mayor parte de mi tiempo explotnado mis habilidades laborales </p>
+<p align="center">Lectura de genero de suspenso</p>
+<p align="center">Practicar futbol, basquetbol, voliebol</p>
+<p align="center">Me gusta jugar videojuegos como Super Mario</p>
+<p align="center">Me gusta ir al cine</p>
+<p align="center">Ir a los teatro</p>
+
+
+</font>
+
+<br>
+<h2><P align="center"><font size="+10"><font color="RED"><a href="cvitae.htm">Atras</FONT></FONT> </a></p></h2>
+<h2><P align="center"><font size="+3"><font color="RED"><a href="oligas.htm">Adelante</FONT></FONT> </a></p></h2>
+
+
+</body>
+</html>
